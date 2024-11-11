@@ -1,0 +1,51 @@
+[
+    {
+      "id": "main",
+      "components": [
+        "section",
+        "tab"
+      ]
+    },
+    {
+      "id": "columns",
+      "components": []
+    },
+    {
+      "id": "column",
+      "components": [
+        "text",
+        "image",
+        "button",
+        "title"
+      ]
+    },
+    {
+      "id": "section",
+      "components": [
+        "text",
+        "image",
+        "button",
+        "title",
+        "hero",
+        "columns",
+        "carousel",
+        "teaser",
+        "featured-article",
+        "blockquote",
+        "article-details",
+        "chart"
+      ]
+    },
+    {
+      "id": "activity-details",
+      "components": [
+        "activity-detail"
+      ]
+    },
+    {
+      "id": "carousel",
+      "components": [
+        "slide"
+      ]
+    }
+  ]

@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: https://author-p45555-e1488464.adobeaemcloud.com/bin/franklin.delivery/prafful-s/wknd-xwalk/main
+    type: markup
+    suffix: ".html?wcmmode=disabled"
